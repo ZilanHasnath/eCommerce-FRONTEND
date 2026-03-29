@@ -38,7 +38,7 @@ const Navbar = () => {
 
                     <Link to="/" onClick={scrollToTop}
                         className='text-2xl sm:text-3xl font-black tracking-tighter text-gray-900 hover:scale-105 transition-transform block'>
-                        <h1>buyme.</h1>
+                        <h1>buydoo.</h1>
                     </Link>
 
                 </div>
