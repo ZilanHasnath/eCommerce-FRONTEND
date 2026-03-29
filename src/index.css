@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: regular;
+    src: url(../public/fonts/font-regular.woff2);
+}
+
+@font-face {
+    font-family: medium;
+    src: url(../public/fonts/font-medium.woff2);
+}
+
+@font-face {
+    font-family: bold;
+    src: url(../public/fonts/font-bold.woff2);
+}

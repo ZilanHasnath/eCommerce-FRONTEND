@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "title": "Pink Full Slive",
+        "price": 600,
+        "image": "/images/product/dress1.jpg",
+        "category": "dress",
+        "description": "Comfortable pink full-sleeve top made from soft, breathable cotton. Its relaxed fit allows for easy movement and all-day comfort, while the elegant pink color adds a touch of femininity. Perfect for casual outings, office wear, or pairing with jeans and leggings for a stylish everyday look. The durable stitching ensures long-lasting wear and effortless style for any occasion.",
+        "inStock": false
+    },
+    {
+        "id": 2,
+        "title": "Men T-shirt",
+        "price": 850,
+        "image": "/images/product/dress2.jpg",
+        "category": "dress",
+        "description": "Classic men’s t-shirt made from high-quality breathable fabric to keep you comfortable all day. Designed with a modern cut that provides a relaxed fit, it’s perfect for casual outings, sports, or everyday wear. The fabric ensures durability while maintaining softness, and its versatile style pairs effortlessly with jeans, shorts, or pants. Ideal for a laid-back yet stylish look.",
+        "inStock": false
+    },
+    {
+        "id": 3,
+        "title": "Red Cap",
+        "price": 700,
+        "image": "/images/product/dress3.jpg",
+        "category": "dress",
+        "description": "Stylish red cap designed to provide both comfort and sun protection. Made with durable and lightweight material, it offers a perfect fit for all-day wear. Ideal for outdoor activities, sports, or casual streetwear, this red cap adds a sporty and trendy touch to any outfit. Adjustable strap ensures secure fit, and the vibrant color enhances your everyday style effortlessly.",
+        "inStock": false
+    },
+    {
+        "id": 4,
+        "title": "Black Blazer",
+        "price": 1200,
+        "image": "/images/product/dress4.jpg",
+        "category": "dress",
+        "description": "Elegant black blazer perfect for formal events, professional settings, or stylish casual wear. Crafted from high-quality fabric, it offers a sleek, tailored look with a comfortable fit. Features durable stitching and a classic design that can be paired with trousers, jeans, or skirts. Ideal for business meetings, office wear, or evening occasions where sophistication meets comfort.",
+        "inStock": true
+    },
+    {
+        "id": 5,
+        "title": "Sliveless Girl Top",
+        "price": 950,
+        "image": "/images/product/dress5.jpg",
+        "category": "dress",
+        "description": "Trendy sleeveless top for girls made with soft, lightweight fabric for comfort and breathability. Designed with a flattering cut that allows ease of movement, it’s perfect for summer outings, casual hangouts, or relaxed evenings. The versatile design pairs easily with skirts, shorts, or jeans. Its vibrant colors and stylish look make it an ideal addition to any modern wardrobe.",
+        "inStock": true
+    },
+    {
+        "id": 6,
+        "title": "White T-Shirt",
+        "price": 1500,
+        "image": "/images/product/dress6.jpg",
+        "category": "dress",
+        "description": "Classic plain white t-shirt made from premium cotton for maximum comfort and durability. Its soft fabric allows for breathability and all-day wear, while the simple design makes it a versatile wardrobe essential. Ideal for casual outings, layering under jackets, or pairing with jeans, shorts, or trousers. This white t-shirt combines timeless style with everyday practicality.",
+        "inStock": true
+    },
+    {
+        "id": 7,
+        "title": "Men Sweater",
+        "price": 1800,
+        "image": "/images/product/dress7.jpg",
+        "category": "dress",
+        "description": "Warm and stylish men’s sweater made from soft, cozy fabric for cold weather. The classic design provides a comfortable fit without compromising on style. Perfect for casual wear, outdoor activities, or layering under jackets, this sweater keeps you warm while maintaining a fashionable look. The premium material ensures durability and long-lasting comfort.",
+        "inStock": true
+    },
+    {
+        "id": 8,
+        "title": "Yellow Top",
+        "price": 650,
+        "image": "/images/product/dress8.jpg",
+        "category": "dress",
+        "description": "Bright yellow top designed for casual and everyday wear. Made from soft, breathable material, it provides comfort and ease of movement. The cheerful yellow color adds a vibrant touch to your outfit, making it ideal for summer outings, casual gatherings, or home wear. Can be paired effortlessly with jeans, skirts, or shorts for a fun and stylish look.",
+        "inStock": true
+    },
+    {
+        "id": 9,
+        "title": "Premium Sweater",
+        "price": 800,
+        "image": "/images/product/dress9.jpg",
+        "category": "dress",
+        "description": "High-quality premium sweater crafted from soft, durable fabric. Offers warmth, comfort, and a sophisticated look suitable for both casual and semi-formal occasions. Its classic design allows for layering over shirts or under jackets, providing versatility in styling. Perfect for daily wear during cooler weather, combining elegance with practicality.",
+        "inStock": true
+    },
+    {
+        "id": 10,
+        "title": "Blue T-shirt",
+        "price": 500,
+        "image": "/images/product/dress10.jpg",
+        "category": "dress",
+        "description": "Comfortable blue t-shirt made from soft, breathable fabric for everyday wear. Designed for a relaxed fit, it pairs easily with jeans, shorts, or casual pants. Perfect for outings, home wear, or casual events, this t-shirt provides both style and comfort. Its versatile color and classic design make it a wardrobe essential for men and women.",
+        "inStock": true
+    },
+    {
+        "id": 11,
+        "title": "Sneaker",
+        "price": 900,
+        "image": "/images/product/dress11.jpg",
+        "category": "sneakers",
+        "description": "Casual sneakers designed for comfort and everyday use. Made with durable materials and cushioned soles for support during walking or running. Stylish design allows pairing with jeans, shorts, or casual outfits. Breathable upper ensures comfort throughout the day, making it ideal for sports, travel, or casual wear.",
+        "inStock": true
+    },
+    {
+        "id": 12,
+        "title": "Multi-Color Top",
+        "price": 500,
+        "image": "/images/product/dress12.jpg",
+        "category": "dress",
+        "description": "Vibrant multi-color top made from soft, breathable fabric for casual wear. Its stylish cut and colorful design make it perfect for street style outfits, hangouts, or daily fashion. Comfortable for all-day wear and easy to pair with jeans, skirts, or shorts. Ideal for adding a pop of color to your wardrobe.",
+        "inStock": true
+    },
+    {
+        "id": 13,
+        "title": "Wireless Noise-Cancelling Headphones",
+        "price": 12000,
+        "image": "/images/product/headphone01.jpg",
+        "category": "headphone",
+        "description": "Premium wireless headphones featuring active noise cancellation and long battery life. Over-ear design ensures comfort for extended use, while high-fidelity audio delivers immersive sound for music, movies, and calls. Perfect for travel, work, or leisure, these headphones combine cutting-edge technology with ergonomic design.",
+        "inStock": true
+    },
+    {
+        "id": 14,
+        "title": "Bluetooth True Wireless Earbuds",
+        "price": 4500,
+        "image": "/images/product/earbuds01.jpg",
+        "category": "earbud",
+        "description": "Compact and lightweight true wireless earbuds with exceptional sound quality and touch controls. Ideal for workouts, commuting, or on-the-go listening. Comfortable fit and long battery life allow uninterrupted music and calls. Sleek design ensures style without compromising functionality.",
+        "inStock": true
+    },
+    {
+        "id": 15,
+        "title": "Virtual Reality Headset",
+        "price": 25000,
+        "image": "/images/product/vr01.jpg",
+        "category": "vr",
+        "description": "High-resolution virtual reality headset providing an immersive experience with wide field of view and intuitive controls. Compatible with multiple VR applications and games, delivering realistic visuals and smooth performance. Adjustable straps and ergonomic design ensure comfort during extended use, making it perfect for gaming, simulations, or interactive experiences.",
+        "inStock": true
+    },
+    {
+        "id": 16,
+        "title": "Sporty Running Sneakers",
+        "price": 6000,
+        "image": "/images/product/sneakers01.jpg",
+        "category": "sneakers",
+        "description": "Lightweight and durable running sneakers designed for maximum comfort and performance. Breathable mesh upper ensures airflow, while cushioned sole provides support during running or daily activities. Stylish and functional design allows pairing with sportswear or casual outfits. Ideal for workouts, jogging, or everyday use.",
+        "inStock": true
+    }
+]
