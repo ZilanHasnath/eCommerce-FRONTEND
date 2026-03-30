@@ -17,6 +17,18 @@ Repository:
 https://github.com/ZilanHasnath/eCommerce-FRONTEND.git
 
 ---
+## Screenshots
+
+### Home Page
+![Home](public/images/sc1.png)
+
+### Product Page
+![Product](public/images/sc2.png)
+
+### Cart Page
+![Cart](public/images/sc3.png)
+
+---
 
 ## Features
 
