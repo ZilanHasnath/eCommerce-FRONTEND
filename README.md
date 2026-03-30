@@ -19,13 +19,13 @@ https://github.com/ZilanHasnath/eCommerce-FRONTEND.git
 ---
 ## Screenshots
 
-### Home Page
+### Mobile Home
 ![Home](public/images/sc1.png)
 
-### Product Page
+### Tab Home
 ![Product](public/images/sc2.png)
 
-### Cart Page
+### Pc Home
 ![Cart](public/images/sc3.png)
 
 ---
